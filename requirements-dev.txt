@@ -4,5 +4,7 @@ pytest-xdist == 3.0.2
 flake8 == 5.0.4
 black == 22.10.0
 isort == 5.10.1
+bandit[toml] == 1.7.5
+safety == 2.3.4
 
 -r requirements.txt
